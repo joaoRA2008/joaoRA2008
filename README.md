@@ -2,7 +2,7 @@
 
 meu nome é João miguel
 - Estou estudando na Alura;
-- Estou me desenvolvendo na linguagen JavaScript
+- Estou estudando no (https://ww.alura,com,br)
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
